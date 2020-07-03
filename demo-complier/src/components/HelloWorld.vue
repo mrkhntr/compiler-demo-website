@@ -91,6 +91,8 @@ export default {
 .grid-container {
   display: grid;
   grid-template-columns: 33% 33% 33%;
+  margin-right: 20px;
+  margin-left: 30px;
 }
 .editor {
   overflow-y: scroll;

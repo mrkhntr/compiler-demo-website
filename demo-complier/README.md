@@ -1,5 +1,13 @@
 # demo-complier
 
+## website
+https://mark5595.github.io/compiler-demo-website/
+
+## deploy
+```
+./deploy.sh
+```
+
 ## Project setup
 ```
 npm install

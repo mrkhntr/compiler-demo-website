@@ -23,3 +23,5 @@ git commit -m 'deploy'
 git push -f git@github.com:Mark5595/compiler-demo-website.git master:gh-pages
 
 cd -
+
+npm run clean
